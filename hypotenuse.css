@@ -42,9 +42,21 @@ nav a{
 .side-input{
     width: 60%;
     height: 40px;
-    margin: 1.5rem;
+    margin-bottom: 2rem;
 }
 .hypo-container label{
-    margin-right: 40rem;
-    
+    margin-right: 40rem; 
+}
+#btn{
+    width: 60%;
+    height: 40px;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    background-color:rgb(89, 59, 209) ;
+}
+#output{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    text-align: center;
+    font-weight: 500;
 }
